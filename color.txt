@@ -1,0 +1,2 @@
+0d,"LOG  : Mod" 0a,"LOG  : Lua" 0a,"LOG  : Lua" 0a,"LOG  : General" 09,"LOG  : Network" 0a,"LOG  : Multiplayer" 0e,"^.*WARN.*$" 0c,"^.*ERRO.*$"
+
